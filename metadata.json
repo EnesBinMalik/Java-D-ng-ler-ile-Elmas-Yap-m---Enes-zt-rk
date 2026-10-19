@@ -1,0 +1,6 @@
+{
+  "name": "Java Döngüler ile Elmas Yapımı - Enes Öztürk",
+  "description": "Java iç içe döngüler ile yıldızlardan elmas ve üçgen yapımı ödev çözümü, interaktif konsol simülatörü ve adım adım algoritma görselleştiricisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
